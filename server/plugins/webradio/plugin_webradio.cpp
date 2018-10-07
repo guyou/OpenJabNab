@@ -41,6 +41,7 @@ PluginWebradio::PluginWebradio():PluginInterface("webradio", "WebRadio", BunnyZt
 	presets.insert("OUI FM", "http://ouifm.ice.infomaniak.ch/ouifm-high.mp3");
 	presets.insert("RTL", "http://streaming.radio.rtl.fr:80/rtl-1-44-96");
 	presets.insert("RTL2", "http://streaming.radio.rtl.fr/rtl2-1-44-64");
+	presets.insert("Radio Barbouillots", "http://streaming.radionomy.com/Radio-Barbouillots");
 	presets.insert("Radio Classique", "http://broadcast.infomaniak.net:80/radioclassique-high.mp3");
 	presets.insert("Radio FG", "http://radiofg.impek.com/fg");
 	presets.insert("Radio Nova", "http://broadcast.infomaniak.net/radionova-high.mp3");
